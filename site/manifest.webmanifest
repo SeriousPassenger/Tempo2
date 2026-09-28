@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "Tempo — Your personal rhythm",
+  "short_name": "Tempo",
+  "description": "Private counters, timers and countdowns with portable browser-local profiles.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111510",
+  "theme_color": "#111510",
+  "icons": [{"src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
